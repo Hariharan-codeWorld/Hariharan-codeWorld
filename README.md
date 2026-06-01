@@ -98,10 +98,28 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=Hariharan-codeWorld&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=Hariharan-codeWorld&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%" />
+<!-- Row 1: Stats + Streak side by side (table ensures equal columns on GitHub) -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Hariharan-codeWorld&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&card_width=400" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=Hariharan-codeWorld&theme=tokyonight&hide_border=false&card_width=400" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Hariharan-codeWorld&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="40%" />
+<!-- Row 2: Top Languages centered -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariharan-codeWorld&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=450" alt="Top Languages" />
+
+<!-- Row 3: Trophies -->
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=Hariharan-codeWorld&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+
+<!-- Row 4: Activity Graph (full width) -->
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hariharan-codeWorld&theme=tokyo-night&hide_border=false" alt="Contribution Graph" />
 
 </div>
 
