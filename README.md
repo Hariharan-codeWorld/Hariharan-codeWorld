@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Engineering Undergraduate | Full-Stack Developer | ML Enthusiast</h3>
 
 <p align="center">
-  Passionate about building secure, scalable, and user-friendly applications with modern web technologies and data-driven solutions.
+  I enjoy building secure, scalable, and practical digital solutions that combine full-stack development with data-driven intelligence.
 </p>
 
 ---
@@ -12,7 +12,7 @@
 - 🎓 Computer Science Engineering undergraduate
 - 💻 Full-stack developer with experience in React.js, Node.js, Express.js, and MongoDB
 - 🧠 Interested in machine learning, intelligent systems, and real-world problem solving
-- 🔐 Focused on secure, scalable, and user-centric software development
+- 🔐 Passionate about secure, scalable, and user-friendly applications
 - 📚 Continuously learning and building projects to strengthen my technical foundation
 
 ---
@@ -54,13 +54,11 @@
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Data Science & ML
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -72,16 +70,19 @@
 ## 🚀 Featured Projects
 
 ### Coastal Flood Early Warning System
-A machine learning-based early warning system that uses long-term satellite rainfall records to classify flood risk levels and generate automated alerts. Built using Python, scikit-learn, Node.js, Express.js, MongoDB, React.js, Twilio, and Nodemailer.
+Machine learning-based coastal flood prediction and early warning platform using long-term satellite rainfall records, feature engineering, Random Forest classification, and automated SMS/email alerts.
+
+**Tech Stack:** Python, scikit-learn, Node.js, Express.js, React.js, MongoDB, Twilio, Nodemailer
 
 ### Multifactor Authentication System
-A secure authentication system using OTP verification, JWT-based sessions, and role-protected APIs to improve account security and access control.
+Secure authentication system with OTP verification, JWT-based sessions, and role-protected APIs to strengthen access control and user security.
+
+**Tech Stack:** Node.js, Express.js, MongoDB, JWT, Nodemailer
 
 ### WebSync – Language Translator
-A responsive web-based translation application focused on clean UI, efficient asynchronous handling, and smooth user experience across devices.
+Responsive translation web application focused on clean UI, efficient request handling, and smooth cross-device user experience.
 
-### Simon Game
-An interactive memory game built with HTML, CSS, and JavaScript featuring dynamic gameplay, score tracking, and responsive animations.
+**Tech Stack:** React.js, JavaScript, HTML, CSS
 
 ---
 
@@ -106,8 +107,6 @@ An interactive memory game built with HTML, CSS, and JavaScript featuring dynami
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hariharan-codeWorld&icon=3&color=1" alt="Profile Views" />
