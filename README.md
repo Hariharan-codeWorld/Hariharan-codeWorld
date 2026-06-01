@@ -21,7 +21,7 @@
 - 🧠 Fascinated by **machine learning** applied to real-world problems (weather prediction, intelligent systems)
 - 🔐 Care deeply about **security** — auth systems, JWT, role-based access control
 - 🌱 Currently sharpening my **Java & OOP** skills for enterprise-level development
-- 📬 Reach me at: *[your email here]*
+- 📬 Reach me at: *[hariharandev31@gmail.com]*
 
 ---
 
@@ -36,7 +36,7 @@
 
 **Stack:** `Python` `scikit-learn` `React.js` `Node.js` `Express.js` `MongoDB` `Twilio` `Nodemailer`
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Hariharan-codeWorld) <!-- update link -->
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Hariharan-codeWorld/Coastal-prediction) <!-- update link -->
 
 ---
 
@@ -49,7 +49,7 @@
 
 **Stack:** `Node.js` `Express.js` `MongoDB` `JWT` `Nodemailer`
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Hariharan-codeWorld) <!-- update link -->
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Hariharan-codeWorld/MFA) <!-- update link -->
 
 ---
 
@@ -58,7 +58,7 @@
 
 **Stack:** `React.js` `JavaScript` `HTML` `CSS`
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Hariharan-codeWorld) <!-- update link -->
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Hariharan-codeWorld/translify) <!-- update link -->
 
 ---
 
@@ -97,16 +97,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hariharan-codeWorld&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Hariharan-codeWorld&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Hariharan-codeWorld&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Hariharan-codeWorld&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariharan-codeWorld&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Hariharan-codeWorld&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
+
 ---
 
 <div align="center">
