@@ -32,7 +32,7 @@
 
 - Built a **Random Forest classifier** with custom feature engineering on long-term satellite rainfall records
 - Integrated **Twilio + Nodemailer** for real-time automated SMS and email alerting
-- Full-stack: React frontend + Node.js/Express backend + MongoDB
+- Full-stack: React frontend + Node.js/Express backend + MongoDB + Python Flask API
 
 **Stack:** `Python` `scikit-learn` `React.js` `Node.js` `Express.js` `MongoDB` `Twilio` `Nodemailer`
 
